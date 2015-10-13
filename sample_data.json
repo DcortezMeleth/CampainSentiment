@@ -1,0 +1,1258 @@
+[
+  {
+    "created_at": "Tue Oct 13 21:18:37 +0000 2015",
+    "id": 654043588993662976,
+    "id_str": "654043588993662976",
+    "text": "Handmade jewelry Natural Ruby Sterling 925 Silver Necklace 18 Inch\/N5750 http:\/\/t.co\/YBrIdLqwF9 http:\/\/t.co\/If50xoGSFl",
+    "source": "\u003ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3839510113,
+      "id_str": "3839510113",
+      "name": "Jessica Core",
+      "screen_name": "jessicacorept",
+      "location": null,
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 5,
+      "friends_count": 40,
+      "listed_count": 2,
+      "favourites_count": 0,
+      "statuses_count": 1346,
+      "created_at": "Fri Oct 09 19:19:00 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/652564358837309440\/JYgxCnKn_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/652564358837309440\/JYgxCnKn_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/YBrIdLqwF9",
+          "expanded_url": "http:\/\/great-product.info\/g\/p\/?query=391293096559",
+          "display_url": "great-product.info\/g\/p\/?query=391\u2026",
+          "indices": [
+            73,
+            95
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 654043588892991488,
+          "id_str": "654043588892991488",
+          "indices": [
+            96,
+            118
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CROhLceWoAA4Wnt.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROhLceWoAA4Wnt.jpg",
+          "url": "http:\/\/t.co\/If50xoGSFl",
+          "display_url": "pic.twitter.com\/If50xoGSFl",
+          "expanded_url": "http:\/\/twitter.com\/jessicacorept\/status\/654043588993662976\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 654043588892991488,
+          "id_str": "654043588892991488",
+          "indices": [
+            96,
+            118
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CROhLceWoAA4Wnt.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROhLceWoAA4Wnt.jpg",
+          "url": "http:\/\/t.co\/If50xoGSFl",
+          "display_url": "pic.twitter.com\/If50xoGSFl",
+          "expanded_url": "http:\/\/twitter.com\/jessicacorept\/status\/654043588993662976\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1444771117815"
+  },
+  {
+    "created_at": "Tue Oct 13 21:18:39 +0000 2015",
+    "id": 654043595733757952,
+    "id_str": "654043595733757952",
+    "text": "RT @TOMFORD: Small Tassel Bucket Bag in anthracite metal python. Discover women's fall handbags: http:\/\/t.co\/S2kJh4QFf3 #TOMFORD http:\/\/t.c\u2026",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 330889380,
+      "id_str": "330889380",
+      "name": "Luxury Forum",
+      "screen_name": "bbop1664",
+      "location": "South Korea",
+      "url": null,
+      "description": "Interest:PATEKPHILIPPE,VACHRON CONSTANT,AUDEMARSPIGUET,BREGUET,BLANCPAIN,Glash\u00fctte Original,JAEGER-LECOULTRE,A.LANGE&S\u00d6HNE,Cartier,PIAGET,IWC,Rolex.by.Apple mac",
+      "protected": false,
+      "verified": false,
+      "followers_count": 880,
+      "friends_count": 1552,
+      "listed_count": 247,
+      "favourites_count": 455,
+      "statuses_count": 51350,
+      "created_at": "Thu Jul 07 09:37:21 +0000 2011",
+      "utc_offset": 32400,
+      "time_zone": "Seoul",
+      "geo_enabled": true,
+      "lang": "ko",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/580803299458215936\/Wp57VpZ0.jpg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/580803299458215936\/Wp57VpZ0.jpg",
+      "profile_background_tile": true,
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/606474246907260928\/EfE5Nwla_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/606474246907260928\/EfE5Nwla_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/330889380\/1438588559",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 13 20:15:58 +0000 2015",
+      "id": 654027821115904001,
+      "id_str": "654027821115904001",
+      "text": "Small Tassel Bucket Bag in anthracite metal python. Discover women's fall handbags: http:\/\/t.co\/S2kJh4QFf3 #TOMFORD http:\/\/t.co\/z4uQwMbu0T",
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2327933017,
+        "id_str": "2327933017",
+        "name": "TOM FORD",
+        "screen_name": "TOMFORD",
+        "location": null,
+        "url": "http:\/\/TOMFORD.COM",
+        "description": "The official twitter account of TOM FORD.",
+        "protected": false,
+        "verified": true,
+        "followers_count": 47934,
+        "friends_count": 0,
+        "listed_count": 485,
+        "favourites_count": 18,
+        "statuses_count": 356,
+        "created_at": "Wed Feb 05 00:15:59 +0000 2014",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/434460021099749376\/scVTy3_y.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/434460021099749376\/scVTy3_y.jpeg",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/459397040393289728\/mrmrZ8VW_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/459397040393289728\/mrmrZ8VW_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2327933017\/1444750308",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 26,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TOMFORD",
+            "indices": [
+              107,
+              115
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http:\/\/t.co\/S2kJh4QFf3",
+            "expanded_url": "http:\/\/tmfrd.co\/fallhb",
+            "display_url": "tmfrd.co\/fallhb",
+            "indices": [
+              84,
+              106
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 654027820515987456,
+            "id_str": "654027820515987456",
+            "indices": [
+              116,
+              138
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+            "url": "http:\/\/t.co\/z4uQwMbu0T",
+            "display_url": "pic.twitter.com\/z4uQwMbu0T",
+            "expanded_url": "http:\/\/twitter.com\/TOMFORD\/status\/654027821115904001\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 506,
+                "h": 252,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 169,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 506,
+                "h": 252,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 654027820515987456,
+            "id_str": "654027820515987456",
+            "indices": [
+              116,
+              138
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+            "url": "http:\/\/t.co\/z4uQwMbu0T",
+            "display_url": "pic.twitter.com\/z4uQwMbu0T",
+            "expanded_url": "http:\/\/twitter.com\/TOMFORD\/status\/654027821115904001\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 506,
+                "h": 252,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 169,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 506,
+                "h": 252,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TOMFORD",
+          "indices": [
+            120,
+            128
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/S2kJh4QFf3",
+          "expanded_url": "http:\/\/tmfrd.co\/fallhb",
+          "display_url": "tmfrd.co\/fallhb",
+          "indices": [
+            97,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TOMFORD",
+          "name": "TOM FORD",
+          "id": 2327933017,
+          "id_str": "2327933017",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 654027820515987456,
+          "id_str": "654027820515987456",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+          "url": "http:\/\/t.co\/z4uQwMbu0T",
+          "display_url": "pic.twitter.com\/z4uQwMbu0T",
+          "expanded_url": "http:\/\/twitter.com\/TOMFORD\/status\/654027821115904001\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 506,
+              "h": 252,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 169,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 506,
+              "h": 252,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 654027821115904001,
+          "source_status_id_str": "654027821115904001",
+          "source_user_id": 2327933017,
+          "source_user_id_str": "2327933017"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 654027820515987456,
+          "id_str": "654027820515987456",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CROS1msUEAAPQQN.jpg",
+          "url": "http:\/\/t.co\/z4uQwMbu0T",
+          "display_url": "pic.twitter.com\/z4uQwMbu0T",
+          "expanded_url": "http:\/\/twitter.com\/TOMFORD\/status\/654027821115904001\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 506,
+              "h": 252,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 169,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 506,
+              "h": 252,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 654027821115904001,
+          "source_status_id_str": "654027821115904001",
+          "source_user_id": 2327933017,
+          "source_user_id_str": "2327933017"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1444771119422"
+  },
+  {
+    "created_at": "Tue Oct 13 21:18:40 +0000 2015",
+    "id": 654043601119395840,
+    "id_str": "654043601119395840",
+    "text": "doublehelix - encode a Ruby program as a Double-Helix\n\nhttps:\/\/t.co\/9oq6LH3sWv",
+    "source": "\u003ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003eTweetbot for Mac\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 27227212,
+      "id_str": "27227212",
+      "name": "Florian Gilcher",
+      "screen_name": "Argorak",
+      "location": null,
+      "url": "http:\/\/asquera.de\/blog",
+      "description": "Music Addict, Rubyist, Backend Programmer and CEO at @asquera.  Waiting for the year of BSD desktops. Loves jokes involving man(1).\n\n@eurucamp organizer alumni.",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1250,
+      "friends_count": 1366,
+      "listed_count": 94,
+      "favourites_count": 8140,
+      "statuses_count": 24646,
+      "created_at": "Sat Mar 28 13:28:46 +0000 2009",
+      "utc_offset": 7200,
+      "time_zone": "Berlin",
+      "geo_enabled": true,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2902714965\/86f0a67b9b1f1e5e5d1f443580842ddb_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2902714965\/86f0a67b9b1f1e5e5d1f443580842ddb_normal.png",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/9oq6LH3sWv",
+          "expanded_url": "https:\/\/github.com\/mame\/doublehelix",
+          "display_url": "github.com\/mame\/doublehel\u2026",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1444771120706"
+  },
+  {
+    "created_at": "Tue Oct 13 21:18:42 +0000 2015",
+    "id": 654043608249581568,
+    "id_str": "654043608249581568",
+    "text": "RT @TheALDUBHugot: Get well soon! Ms. Ruby @rodriguezruby God Bless... #ALDUBWayBackHome https:\/\/t.co\/AvPJdEMIHq",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 999169579,
+      "id_str": "999169579",
+      "name": "loidabaccay",
+      "screen_name": "loidasweet",
+      "location": null,
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 204,
+      "friends_count": 319,
+      "listed_count": 2,
+      "favourites_count": 870,
+      "statuses_count": 17648,
+      "created_at": "Sun Dec 09 12:09:52 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/647008345094688768\/iGm4AEUP_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/647008345094688768\/iGm4AEUP_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 13 21:09:08 +0000 2015",
+      "id": 654041199267872768,
+      "id_str": "654041199267872768",
+      "text": "Get well soon! Ms. Ruby @rodriguezruby God Bless... #ALDUBWayBackHome https:\/\/t.co\/AvPJdEMIHq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3881897594,
+        "id_str": "3881897594",
+        "name": "ALDUB Hugot",
+        "screen_name": "TheALDUBHugot",
+        "location": "ALDUB \u2665 MAIDEN",
+        "url": null,
+        "description": "Certified ALDUBNATION\nMga HUGOT ng ALDUBNATION\nKuwentong HOPIA\nAral ng KalyeSerye\nHappening sa EatBulaga\nFollow us @TheALDUBHugot",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 75,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 24,
+        "created_at": "Tue Oct 13 15:24:50 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/653960784641323008\/n0T7jTlZ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/653960784641323008\/n0T7jTlZ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 654039911171907584,
+      "quoted_status_id_str": "654039911171907584",
+      "quoted_status": {
+        "created_at": "Tue Oct 13 21:04:00 +0000 2015",
+        "id": 654039911171907584,
+        "id_str": "654039911171907584",
+        "text": "Oo teh maaga ang therapy ko. May Rehab ako eh, may tama ang knee ko. Huuuu gurang! https:\/\/t.co\/zV6tsy8kym",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 145514541,
+          "id_str": "145514541",
+          "name": "ruby rodriguez",
+          "screen_name": "rodriguezruby",
+          "location": "Philippines",
+          "url": null,
+          "description": "What u see is what u get! my Instagram is @rodriguezruby follow me",
+          "protected": false,
+          "verified": false,
+          "followers_count": 619193,
+          "friends_count": 383,
+          "listed_count": 628,
+          "favourites_count": 41,
+          "statuses_count": 29857,
+          "created_at": "Wed May 19 04:40:36 +0000 2010",
+          "utc_offset": -28800,
+          "time_zone": "Alaska",
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "352726",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/263095356\/Screen_shot_2011-06-03_at_7.43.24_AM.png",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/263095356\/Screen_shot_2011-06-03_at_7.43.24_AM.png",
+          "profile_background_tile": true,
+          "profile_link_color": "D02B55",
+          "profile_sidebar_border_color": "829D5E",
+          "profile_sidebar_fill_color": "99CC33",
+          "profile_text_color": "3E4415",
+          "profile_use_background_image": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/646900441263968256\/lGLfdiwD_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/646900441263968256\/lGLfdiwD_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/145514541\/1348358632",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 654039677763088384,
+        "quoted_status_id_str": "654039677763088384",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/zV6tsy8kym",
+              "expanded_url": "https:\/\/twitter.com\/katdecastro\/status\/654039677763088384",
+              "display_url": "twitter.com\/katdecastro\/st\u2026",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "tl"
+      },
+      "is_quote_status": true,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ALDUBWayBackHome",
+            "indices": [
+              52,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/AvPJdEMIHq",
+            "expanded_url": "https:\/\/twitter.com\/rodriguezruby\/status\/654039911171907584",
+            "display_url": "twitter.com\/rodriguezruby\/\u2026",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "rodriguezruby",
+            "name": "ruby rodriguez",
+            "id": 145514541,
+            "id_str": "145514541",
+            "indices": [
+              24,
+              38
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ALDUBWayBackHome",
+          "indices": [
+            71,
+            88
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/AvPJdEMIHq",
+          "expanded_url": "https:\/\/twitter.com\/rodriguezruby\/status\/654039911171907584",
+          "display_url": "twitter.com\/rodriguezruby\/\u2026",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TheALDUBHugot",
+          "name": "ALDUB Hugot",
+          "id": 3881897594,
+          "id_str": "3881897594",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "rodriguezruby",
+          "name": "ruby rodriguez",
+          "id": 145514541,
+          "id_str": "145514541",
+          "indices": [
+            43,
+            57
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1444771122406"
+  },
+  {
+    "created_at": "Tue Oct 13 21:18:42 +0000 2015",
+    "id": 654043609742741504,
+    "id_str": "654043609742741504",
+    "text": "RT @rodriguezruby: Thank u so much https:\/\/t.co\/3yvfHhmhKZ",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3668796318,
+      "id_str": "3668796318",
+      "name": "tikya@19",
+      "screen_name": "RanogTessie",
+      "location": "Quezon Nueva Ecija Philippines",
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 18,
+      "friends_count": 44,
+      "listed_count": 1,
+      "favourites_count": 111,
+      "statuses_count": 903,
+      "created_at": "Thu Sep 24 09:26:40 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/650082920099516418\/o70D0-A5_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/650082920099516418\/o70D0-A5_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3668796318\/1443826730",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 13 21:13:27 +0000 2015",
+      "id": 654042288989954048,
+      "id_str": "654042288989954048",
+      "text": "Thank u so much https:\/\/t.co\/3yvfHhmhKZ",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 145514541,
+        "id_str": "145514541",
+        "name": "ruby rodriguez",
+        "screen_name": "rodriguezruby",
+        "location": "Philippines",
+        "url": null,
+        "description": "What u see is what u get! my Instagram is @rodriguezruby follow me",
+        "protected": false,
+        "verified": false,
+        "followers_count": 619193,
+        "friends_count": 383,
+        "listed_count": 628,
+        "favourites_count": 41,
+        "statuses_count": 29857,
+        "created_at": "Wed May 19 04:40:36 +0000 2010",
+        "utc_offset": -28800,
+        "time_zone": "Alaska",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/263095356\/Screen_shot_2011-06-03_at_7.43.24_AM.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/263095356\/Screen_shot_2011-06-03_at_7.43.24_AM.png",
+        "profile_background_tile": true,
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/646900441263968256\/lGLfdiwD_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/646900441263968256\/lGLfdiwD_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/145514541\/1348358632",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 654041726525550592,
+      "quoted_status_id_str": "654041726525550592",
+      "quoted_status": {
+        "created_at": "Tue Oct 13 21:11:13 +0000 2015",
+        "id": 654041726525550592,
+        "id_str": "654041726525550592",
+        "text": "@rodriguezruby you're a star Ruby, kahit masakit ang binti mo still the show must go on. I really like you. #ALDUBWayBackHome",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": 654039082612330496,
+        "in_reply_to_status_id_str": "654039082612330496",
+        "in_reply_to_user_id": 145514541,
+        "in_reply_to_user_id_str": "145514541",
+        "in_reply_to_screen_name": "rodriguezruby",
+        "user": {
+          "id": 3686257696,
+          "id_str": "3686257696",
+          "name": "Mary",
+          "screen_name": "marymartin2127",
+          "location": null,
+          "url": null,
+          "description": null,
+          "protected": false,
+          "verified": false,
+          "followers_count": 12,
+          "friends_count": 17,
+          "listed_count": 3,
+          "favourites_count": 275,
+          "statuses_count": 3205,
+          "created_at": "Thu Sep 17 13:47:04 +0000 2015",
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "lang": "en-GB",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/649125131294507009\/Ic8tGyww_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/649125131294507009\/Ic8tGyww_normal.jpg",
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ALDUBWayBackHome",
+              "indices": [
+                108,
+                125
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "rodriguezruby",
+              "name": "ruby rodriguez",
+              "id": 145514541,
+              "id_str": "145514541",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 44,
+      "favorite_count": 35,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/3yvfHhmhKZ",
+            "expanded_url": "https:\/\/twitter.com\/marymartin2127\/status\/654041726525550592",
+            "display_url": "twitter.com\/marymartin2127\u2026",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https:\/\/t.co\/3yvfHhmhKZ",
+          "expanded_url": "https:\/\/twitter.com\/marymartin2127\/status\/654041726525550592",
+          "display_url": "twitter.com\/marymartin2127\u2026",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rodriguezruby",
+          "name": "ruby rodriguez",
+          "id": 145514541,
+          "id_str": "145514541",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1444771122762"
+  },
+  {
+    "created_at": "Tue Oct 13 21:18:45 +0000 2015",
+    "id": 654043621210128388,
+    "id_str": "654043621210128388",
+    "text": "#Arbeitslos? Neue #Jobs f\u00fcr Ruby in #F\u00fcrth http:\/\/t.co\/PfvNgYO4lY",
+    "source": "\u003ca href=\"http:\/\/de.joblore.com\" rel=\"nofollow\"\u003ede.joblore.com\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2912672003,
+      "id_str": "2912672003",
+      "name": "Job-Suchmaschine",
+      "screen_name": "JobloreDe",
+      "location": null,
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 552,
+      "friends_count": 0,
+      "listed_count": 127,
+      "favourites_count": 4,
+      "statuses_count": 379553,
+      "created_at": "Tue Dec 09 13:01:29 +0000 2014",
+      "utc_offset": 7200,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/542327814880387072\/AJ40CjwU_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/542327814880387072\/AJ40CjwU_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2912672003\/1418136723",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Arbeitslos",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "Jobs",
+          "indices": [
+            18,
+            23
+          ]
+        },
+        {
+          "text": "F\u00fcrth",
+          "indices": [
+            36,
+            42
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/PfvNgYO4lY",
+          "expanded_url": "http:\/\/rabataba.de\/find?q=Ruby&l=F%C3%BCrth&utm_source=twitter&utm_medium=social&utm_campaign=de",
+          "display_url": "rabataba.de\/find?q=Ruby&l=\u2026",
+          "indices": [
+            43,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1444771125496"
+  }
+]
