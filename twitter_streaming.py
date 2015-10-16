@@ -9,8 +9,7 @@ import json
 
 
 client = MongoClient('localhost', 27017)
-db = client['twitter_db']
-collection = db['twitter_collection']
+tweets = client.twitter_db.twitter_collection
 
 
 class StdOutListener(StreamListener):
@@ -18,7 +17,7 @@ class StdOutListener(StreamListener):
     def on_data(self, raw_data):
         print raw_data
         json_tweet = json.loads(raw_data)
-        collection.insert(json_tweet)
+        tweets.insert(json_tweet)
         return True
 
     def on_error(self, status_code):
