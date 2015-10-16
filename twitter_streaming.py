@@ -31,4 +31,14 @@ if __name__ == "__main__":
     auth.set_access_token(config.access_token, config.access_token_secret)
     stream = Stream(auth, l)
 
-    stream.filter(track=['python', 'ruby'])
+    stream.filter(track=['Christie2016', 'ChrisChristie', 'Elections', 'Elections2016', 'realDonaldTrump',
+                         'donaldtrump', 'President', 'headofstate', 'Congress', 'Senate', 'democracy', 'republic',
+                         'republicanism', 'leftpolitics', 'rightpolitics', 'politician', 'elections', 'election',
+                         'political', 'liberalism', 'conservatism', 'government', 'MittRomney', 'Rommey',
+                         'presidential', 'electors', 'democraticparty', 'democrat', 'senator', 'vicepresident',
+                         'constitution', 'constitutional', 'nominee', 'Binden', 'JoeBiden', 'LincolnChafee', 'Chafee',
+                         'HillaryClinton', 'Clinton', 'Martin O\'Malley', 'O\'Malley', 'BernieSanders', 'Sanders',
+                         'JimWebb', 'Webb', 'candidate', 'JebBush', 'Bush', 'Dr.BenCarson', 'Carson', 'TedCruz',
+                         'CarlyFiorina', 'Fiorina', 'Jim Gilmore', 'Gilmore', 'LindseyGraham', 'Governor',
+                         'Mike Huckabee', 'Huckabee', 'BobbyJindal', 'Jindal', 'JohnKasich', 'Kasich', 'GeorgePataki',
+                         'Pataki', 'RandPaul', 'Marco Rubio', 'Rubio', 'RickSantorum', 'Rick Santorum'])
